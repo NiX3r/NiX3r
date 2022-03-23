@@ -3,7 +3,7 @@
 - <h1 align="center">Hi 👋, I'm Daniel Iliev</h1>
   <h3 align="center">A passionate backend developer from Czech republic 🇨🇿</h3>
 
-  You can read more about me on <a href="https://read.cv/ncodesdoteu">ReadCV</a> <br><br>
+  You can read more about me on <a href="https://read.cv/nix3r">ReadCV</a> <br><br>
 
   I'm a young student who's been interested in programming since 2016. I've started learning in C / C++ which lasted me for about 2 years. Then I switched to learning Java and somewhat recently C#. I know some other languages as well like SQL, PHP, JS, CSS, HTML, etc. I've already done some projects just for fun or for companies.
 
@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/daniel-iliev-a71466209/" target="blank"><img align="center" src="https://logodix.com/logo/4353.png" alt="linkedin" height="5%" width="5%" /></a>
   <a href="https://discord.gg/g892nvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="g892nvr" height="5%" width="5%" /></a>
   </p>
-
+  
   
 
 
