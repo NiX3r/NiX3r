@@ -1,6 +1,4 @@
-- 
-
-- <h1 align="center">Hi 👋, I'm Daniel Iliev</h1>
+<h1 align="center">Hi 👋, I'm Daniel Iliev</h1>
   <h3 align="center">A passionate backend developer from Czech republic 🇨🇿</h3>
 
   You can read more about me on <a href="https://read.cv/nix3r">ReadCV</a> <br><br>
