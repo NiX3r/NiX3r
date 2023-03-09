@@ -3,13 +3,13 @@
 
   You can read more about me on <a href="https://read.cv/nix3r">ReadCV</a> <br><br>
 
-  I'm a young student who's been interested in programming since 2016. I've started learning in C / C++ which lasted me for about 2 years. Then I switched to learning Java and somewhat recently C#. I know some other languages as well like SQL, PHP, JS, CSS, HTML, etc. I've already done some projects just for fun or for companies.
+  I'm a young programmer who's been interested in programming since 2016. I've started learning in C / C++ which lasted me for about 2 years. Then I switched to learning Java and somewhat recently C#. I know some other languages as well like SQL, PHP, JS, CSS, HTML, etc. I've already done some projects just for fun or for companies.
 
-  - 🔭 I’m currently working on [CoronaTracker - school seminar work](https://github.com/nCodesDotEU/CoronaTracker)
-  - 🌱 I’m currently learning **Maturita exams**
-  - 🗃 I'm currently part of **nCodes community**
-  - 👨‍💻 All of my projects are available at mine [website](https://ncodes.eu)
-  - 📫 How to reach me **iliev@ncodes.eu**
+  - 🔭 I’m currently working on **private projects for friends, etc.**
+  - 🌱 I’m currently learning **Camunda**, **WPF Applications**
+  - 🗃 I'm currently part of **[OK System](https://www.oksystem.com/cz)**
+  - 👨‍💻 All of my projects are available at mine [website](https://iliev.cz)
+  - 📫 How to reach me **daniel@iliev.cz**
 
   
 
