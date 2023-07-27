@@ -5,8 +5,8 @@
 
   I'm a young programmer who's been interested in programming since 2016. I've started learning in C / C++ which lasted me for about 2 years. Then I switched to learning Java and somewhat recently C#. I know some other languages as well like SQL, PHP, JS, CSS, HTML, etc. I've already done some projects just for fun or for companies.
 
-  - 🔭 I’m currently working on **private projects for friends, etc.**
-  - 🌱 I’m currently learning **Camunda**, **WPF Applications**
+  - 🔭 I’m currently working on **hosting web app for my Discord bots**
+  - 🌱 I’m currently learning **Blazor**, **WPF Applications**
   - 🗃 I'm currently part of **[OK System](https://www.oksystem.com/cz)**
   - 👨‍💻 All of my projects are available at mine [website](https://iliev.cz)
   - 📫 How to reach me **daniel@iliev.cz**
