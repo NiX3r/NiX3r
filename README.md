@@ -1,27 +1,67 @@
-<h1 align="center">Hi 👋, I'm Daniel Iliev</h1>
-  <h3 align="center">A passionate backend developer from Czech republic 🇨🇿</h3>
+<h2 align="center">Hi👋 My name is Daniel Iliev</h2>
 
-  You can read more about me on <a href="https://read.cv/nix3r">ReadCV</a> <br><br>
+###
 
-  I'm a young programmer who's been interested in programming since 2016. I've started learning in C / C++ which lasted me for about 2 years. Then I switched to learning Java and somewhat recently C#. I know some other languages as well like SQL, PHP, JS, CSS, HTML, etc. I've already done some projects just for fun or for companies.
+<h4 align="center">a passionate software engineer</h4>
 
-  - 🔭 I’m currently working on **hosting web app for my Discord bots**
-  - 🌱 I’m currently learning **Blazor**, **WPF Applications**
-  - 🗃 I'm currently part of **[OK System](https://www.oksystem.com/cz)**
-  - 👨‍💻 All of my projects are available at mine [website](https://iliev.cz)
-  - 📫 How to reach me **daniel@iliev.cz**
+###
 
-  
+<p align="left">I'm software engineer enthusiastic who's into programming since 2016. I've started learning in C / C++ which lasted me for about 2 years and I felt in love with programming. Then I switched to learning Java and somewhat recently C# and with that came SQL (MySQL). I can read some other languages as well like PHP, JS, CSS, HTML, etc. I've already done some projects for personal use or for commercial use. Some of my projects are available at my page iliev.cz</p>
 
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-  <a href="https://dev.to/ncodesdoteu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ncodesdoteu" height="5%" width="5%" /></a>
-  <a href="https://www.linkedin.com/in/daniel-iliev-a71466209/" target="blank"><img align="center" src="https://logodix.com/logo/4353.png" alt="linkedin" height="5%" width="5%" /></a>
-  <a href="https://discord.gg/g892nvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="g892nvr" height="5%" width="5%" /></a>
-  </p>
-  
-  
+###
 
+<br clear="both">
 
-  <h3 align="left">Languages and Tools:</h3>
-  <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="gfd" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/AA9CZEcYHV" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
+  </a>
+  <a href="https://dev.to/nix3r" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="42" height="30" alt="devto logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nix3r&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=nix3r&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nix3r&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/nix3r/nix3r/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/nix3r/count.svg?"  />
+</div>
+
+###
