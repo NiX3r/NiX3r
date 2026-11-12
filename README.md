@@ -42,6 +42,7 @@
   <a href="https://dev.to/nix3r" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="42" height="30" alt="devto logo"  />
   </a>
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:software@iliev.cz)
 </div>
 
 ###
