@@ -57,9 +57,3 @@
 <img src="https://raw.githubusercontent.com/nix3r/nix3r/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/nix3r/count.svg?"  />
-</div>
-
-###
