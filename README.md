@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm software engineer enthusiastic who's into programming since 2016. I've started learning in C / C++ which lasted me for about 2 years and I felt in love with programming. Then I switched to learning Java and somewhat recently C# and with that came SQL (MySQL). I can read some other languages as well like PHP, JS, CSS, HTML, etc. I've already done some projects for personal use or for commercial use. Some of my projects are available at my page iliev.cz</p>
+<p align="left">I'm software engineer enthusiastic who's into programming since 2016. I've started learning in C / C++ which lasted me for about 2 years and I felt in love with programming. Then I switched to learning Java and somewhat recently C# and with that came SQL (MySQL). I can read some other languages as well like PHP, JS, CSS, HTML, etc. I've already done some projects for personal use or for commercial use. Some of my projects are available at my page <a href="https://iliev.cz" target="_blank">iliev.cz</a></p>
 
 ###
 
